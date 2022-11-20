@@ -1,0 +1,8 @@
+C:\Users\dell\source\repos\index1\index1\bin\Debug\index1.exe.config
+C:\Users\dell\source\repos\index1\index1\bin\Debug\index1.exe
+C:\Users\dell\source\repos\index1\index1\bin\Debug\index1.pdb
+C:\Users\dell\source\repos\index1\index1\obj\Debug\index1.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\index1\index1\obj\Debug\index1.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\source\repos\index1\index1\obj\Debug\index1.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\index1\index1\obj\Debug\index1.exe
+C:\Users\dell\source\repos\index1\index1\obj\Debug\index1.pdb
