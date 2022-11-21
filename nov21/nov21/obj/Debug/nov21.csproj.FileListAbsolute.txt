@@ -1,0 +1,8 @@
+C:\Users\dell\source\repos\nov21\nov21\bin\Debug\nov21.exe.config
+C:\Users\dell\source\repos\nov21\nov21\bin\Debug\nov21.exe
+C:\Users\dell\source\repos\nov21\nov21\bin\Debug\nov21.pdb
+C:\Users\dell\source\repos\nov21\nov21\obj\Debug\nov21.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\nov21\nov21\obj\Debug\nov21.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\source\repos\nov21\nov21\obj\Debug\nov21.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\nov21\nov21\obj\Debug\nov21.exe
+C:\Users\dell\source\repos\nov21\nov21\obj\Debug\nov21.pdb
