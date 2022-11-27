@@ -1,0 +1,8 @@
+C:\nov27\nov27\bin\Debug\nov27.exe.config
+C:\nov27\nov27\bin\Debug\nov27.exe
+C:\nov27\nov27\bin\Debug\nov27.pdb
+C:\nov27\nov27\obj\Debug\nov27.csproj.AssemblyReference.cache
+C:\nov27\nov27\obj\Debug\nov27.csproj.SuggestedBindingRedirects.cache
+C:\nov27\nov27\obj\Debug\nov27.csproj.CoreCompileInputs.cache
+C:\nov27\nov27\obj\Debug\nov27.exe
+C:\nov27\nov27\obj\Debug\nov27.pdb
